@@ -17,7 +17,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: #000000;
-  width: 60%;
+  width: 80%;
   border-radius: 20px;
 }
 
@@ -28,6 +28,7 @@ body {
   height: 30rem;
   background-size: auto;
   object-fit: contain;
+  margin-left: 2rem;
 }
 .form {
   padding: 1rem;
